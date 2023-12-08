@@ -1,0 +1,10 @@
+# basic
+.venv
+.vscode
+.pytest_cache
+
+# csv
+csv/*
+csv_merged/*
+!csv/.gitkeep
+!csv_merged/.gitkeep
